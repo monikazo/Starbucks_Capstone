@@ -15,4 +15,4 @@ Three phases of the project can be found in Notebooks:
 
 The proposal can be found as proposal.pdf.
 
-The report with the summary of findings can be found as report.pdf.
+The report with the summary of findings can be found as report.pdf. 
