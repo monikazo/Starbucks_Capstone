@@ -14,5 +14,5 @@ Three phases of the project can be found in Notebooks:
 * Model_Training.ipynb: delevopment of 2 algorithms. Linear regression as the benchmark and XGBoost as a better performing.
 
 The proposal can be found as proposal.pdf.
-
+ 
 The report with the summary of findings can be found as report.pdf. 
