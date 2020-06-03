@@ -3,7 +3,7 @@
 ## Introduction
 Final Project for the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
-The goal of this last project in the Nanodegree is to analyze user's responses to offers in the Starbucks app on a personalized level.
+The goal of this last project in the Nanodegree is to analyze user's responses to offers in the Starbucks app on a personalized level. 
 
 Three phases of the project can be found in Notebooks:
  
