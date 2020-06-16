@@ -7,7 +7,7 @@ The goal of this last project in the Nanodegree is to analyze user's responses t
 
 Three phases of the project can be found in Notebooks: 
  
-* Data_Exploration.ipynb: first look at the data
+* Data_Exploration.ipynb: first look at the data 
 
 * Data_Cleaning.ipynb: preprocessing of each dataset, then combination of them and creation of target variable
 
